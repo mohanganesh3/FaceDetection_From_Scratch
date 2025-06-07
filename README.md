@@ -302,10 +302,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**[Your Name]**
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [your.email@example.com]
-- Portfolio: [your-portfolio.com]
+**Mohan Ganesh**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/mohan-ganesh-gottipati-22279b310/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black.svg)](https://github.com/mohanganesh3)
+[![Email](https://img.shields.io/badge/Email-Contact-red.svg)](mailto:mohanganesh165577@gmail.com)
 
 ## 🙏 Acknowledgments
 
